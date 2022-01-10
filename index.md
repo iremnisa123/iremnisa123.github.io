@@ -1,2 +1,27 @@
-https://www.google.com.tr/imgres?imgurl=https%3A%2F%2Fakademi.bilgeadam.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fapplication-development-with-python.png&imgrefurl=https%3A%2F%2Fakademi.bilgeadam.com%2Fcourses%2Fapplication-development-with-python%2F&tbnid=fvdEc41O_a5LZM&vet=12ahUKEwic4ODV4qb1AhXDM-wKHYAHDVEQMygDegUIARDGAQ..i&docid=8CKZknGxEaEIoM&w=310&h=214&itg=1&q=python&ved=2ahUKEwic4ODV4qb1AhXDM-wKHYAHDVEQMygDegUIARDGAQ
+İREM NİSA YETKİN 
+<a href="https://resimlink.com/XAGq3S" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/XAGq3S.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+
+# SİZLERLE BİRLİKTE PYTHON ÖĞRENECEĞİZ
+## PYTHON NEDİR? PYTHON NERELERDE KULLANILIR? PYTHON EĞİTİM KAYNAK ÖRNEKLERİ NELERDİR?
+
+**_ PYTHON NEDİR ?_**
+
+
+Python, **_nesne yönelimli_**, **_yorumlamalı_** birimsel ve etkileşimli yüksek seviyeli bir **_programlama dilidir._**
+
+**_ PYTHON NERELERDE KULLANILIR ?_**
+* VERİ BİLİMİ 
+* MAKİNE ÖĞRENME
+* WEB GELİŞTİRME
+* OYUN GELİŞTİRME 
+* ROBOTİK UYGULAMALARI
+* YAPAY ZEKA
+
+
+**_ PYTHON EĞİTİM KAYNAK ÖRNEKLERİ NELERDİR? _**
+* [W3SCHOOLS](https://www.w3schools.com/python/default.asp)
+* [BTK AKADEMİ](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877#!/about)
+* [UDEMY](https://www.udemy.com/course/python-programlama-baslangic-egitimi-kursu/)
+* [ENSTİTÜ](https://www.iienstitu.com/online-egitim/python-egitimi)
+* [YAKIN KAMPÜS](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
 
