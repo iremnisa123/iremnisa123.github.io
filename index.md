@@ -10,10 +10,8 @@
 Python, **_Nesne yönelimli_**, **_yorumlamalı_** birimsel ve etkileşimli yüksek seviyeli bir **_programlama dilidir._**
 
 
-
 **_PYTHON NERELER'DE KULLANILIR ?_**
-
-* VERİ BİLİMİ
+ * VERİ BİLİMİ
  * MAKİNE ÖĞRENME
  * WEB GELİŞTİRME
  * OYUN GELİŞTİRME 
