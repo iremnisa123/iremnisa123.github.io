@@ -1,1 +1,2 @@
-MERHABA DÜNYA
+https://www.google.com.tr/imgres?imgurl=https%3A%2F%2Fakademi.bilgeadam.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fapplication-development-with-python.png&imgrefurl=https%3A%2F%2Fakademi.bilgeadam.com%2Fcourses%2Fapplication-development-with-python%2F&tbnid=fvdEc41O_a5LZM&vet=12ahUKEwic4ODV4qb1AhXDM-wKHYAHDVEQMygDegUIARDGAQ..i&docid=8CKZknGxEaEIoM&w=310&h=214&itg=1&q=python&ved=2ahUKEwic4ODV4qb1AhXDM-wKHYAHDVEQMygDegUIARDGAQ
+
