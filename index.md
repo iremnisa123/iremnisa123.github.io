@@ -1,7 +1,7 @@
 İREM NİSA YETKİN 
 <a href="https://resimlink.com/XAGq3S" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/XAGq3S.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-#   SİZLERLE BİRLİKTE PYTHON ÖĞRENECEĞİZ
+#  SİZLERLE BİRLİKTE PYTHON ÖĞRENECEĞİZ
 ## PYTHON NEDİR? PYTHON NERELERDEKULLANILIR? PYTHON EĞİTİM KAYNAK ÖRNEKLERİ NELERDİR?
 
 
