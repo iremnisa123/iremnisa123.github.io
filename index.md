@@ -11,7 +11,7 @@
 **_PYTHON NEDİR?_**
 
 
-Python, **_nesne yönelimli_**, **_yorumlamalı_** birimsel ve etkileşimli yüksek seviyeli bir **_programlama dilidir._**
+Python, **_Nesne yönelimli_**, **_yorumlamalı_** birimsel ve etkileşimli yüksek seviyeli bir **_programlama dilidir._**
 
 
 
