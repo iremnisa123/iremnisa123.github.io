@@ -5,7 +5,7 @@
 
 
 
-## PYTHON NEDİR? PYTHON NERELERDE KULLANILIR? PYTHON EĞİTİM KAYNAK ÖRNEKLERİ NELERDİR?
+## PYTHON NEDİR? PYTHON NERELERDEKULLANILIR? PYTHON EĞİTİM KAYNAK ÖRNEKLERİ NELERDİR?
 
 
 **_PYTHON NEDİR?_**
@@ -16,7 +16,7 @@ Python, **_Nesne yönelimli_**, **_yorumlamalı_** birimsel ve etkileşimli yük
 
 
 **_PYTHON NERELERDE KULLANILIR?_**
-* VERİ BİLİMİ 
+* VERİ BİLİMİ
 * MAKİNE ÖĞRENME
 * WEB GELİŞTİRME
 * OYUN GELİŞTİRME 
