@@ -1,15 +1,15 @@
 İREM NİSA YETKİN 
 <a href="https://resimlink.com/XAGq3S" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/XAGq3S.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
 
-# SİZLERLE BİRLİKTE PYTHON ÖĞRENECEĞİZ
+#   SİZLERLE BİRLİKTE PYTHON ÖĞRENECEĞİZ
 ## PYTHON NEDİR? PYTHON NERELERDE KULLANILIR? PYTHON EĞİTİM KAYNAK ÖRNEKLERİ NELERDİR?
 
-**_ PYTHON NEDİR ?_**
+**_PYTHON NEDİR?_**
 
 
 Python, **_nesne yönelimli_**, **_yorumlamalı_** birimsel ve etkileşimli yüksek seviyeli bir **_programlama dilidir._**
 
-**_ PYTHON NERELERDE KULLANILIR ?_**
+**_PYTHON NERELERDE KULLANILIR?_**
 * VERİ BİLİMİ 
 * MAKİNE ÖĞRENME
 * WEB GELİŞTİRME
@@ -18,7 +18,7 @@ Python, **_nesne yönelimli_**, **_yorumlamalı_** birimsel ve etkileşimli yük
 * YAPAY ZEKA
 
 
-**_ PYTHON EĞİTİM KAYNAK ÖRNEKLERİ NELERDİR? _**
+**_PYTHON EĞİTİM KAYNAK ÖRNEKLERİ NELERDİR?_**
 * [W3SCHOOLS](https://www.w3schools.com/python/default.asp)
 * [BTK AKADEMİ](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877#!/about)
 * [UDEMY](https://www.udemy.com/course/python-programlama-baslangic-egitimi-kursu/)
