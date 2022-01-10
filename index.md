@@ -6,19 +6,24 @@
 
 
 **_PYTHON NEDİR?_**
+
 Python, **_Nesne yönelimli_**, **_yorumlamalı_** birimsel ve etkileşimli yüksek seviyeli bir **_programlama dilidir._**
 
 
+
 **_PYTHON NERELER'DE KULLANILIR ?_**
- * VERİ BİLİMİ
+
+* VERİ BİLİMİ
  * MAKİNE ÖĞRENME
  * WEB GELİŞTİRME
  * OYUN GELİŞTİRME 
  * ROBOTİK UYGULAMALARI
  * YAPAY ZEKA
 
+
 **_PYTHON EĞİTİM KAYNAK ÖRNEKLERİ NELERDİR?_**
- * [W3SCHOOLS](https://www.w3schools.com/python/default.asp)
+
+* [W3SCHOOLS](https://www.w3schools.com/python/default.asp)
  * [BTK AKADEMİ](https://www.btkakademi.gov.tr/portal/course/s-f-rdan-ileri-seviye-python-programlama-5877#!/about)
  * [UDEMY](https://www.udemy.com/course/python-programlama-baslangic-egitimi-kursu/)
  * [ENSTİTÜ](https://www.iienstitu.com/online-egitim/python-egitimi)
